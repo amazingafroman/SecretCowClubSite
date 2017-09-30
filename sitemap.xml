@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://secretcow.club/index.html</loc>
-    <lastmod>2017-09-30</lastmod>
+    <lastmod>2017-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://secretcow.club/about.html</loc>
-    <lastmod>2017-09-30</lastmod>
+    <lastmod>2017-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -27,10 +27,13 @@
       <image:loc>http://secretcow.club/images/12993468_10208722309005560_3111599955132397026_n-crop-u416.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://secretcow.club/images/17917823_1544578778887556_1766169868346671522_o-crop-u424.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://secretcow.club/images/12829135_10201300984924188_5681370016394036728_o-crop-u429.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://secretcow.club/images/17917823_1544578778887556_1766169868346671522_o-crop-u424.jpg</image:loc>
+      <image:loc>http://secretcow.club/images/logo%20graphic%20black%20@2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://secretcow.club/images/18491404_10155241658162480_7658161444951540170_o-crop-u434.jpg</image:loc>
@@ -38,13 +41,10 @@
     <image:image>
       <image:loc>http://secretcow.club/images/20934148_1657389614274204_560404708477814619_o-crop-u438.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://secretcow.club/images/logo%20graphic%20black%20@2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://secretcow.club/yassss-queen.html</loc>
-    <lastmod>2017-09-30</lastmod>
+    <lastmod>2017-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -59,7 +59,7 @@
   </url>
   <url>
     <loc>http://secretcow.club/blazing-sun-death-game.html</loc>
-    <lastmod>2017-09-30</lastmod>
+    <lastmod>2017-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

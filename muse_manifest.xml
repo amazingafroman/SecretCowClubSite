@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="secretcow.club" resolutions="1x" timestamp="1506747228967">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="secretcow.club" resolutions="1x" timestamp="1506751092967">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="397034343" ref="index:blazing-sun-death-game:about:yassss-queen"/>
     <file name="index.css" crc="3908865080" ref="index"/>
     <file name="blazing-sun-death-game.css" crc="3820805789" ref="blazing-sun-death-game"/>
-    <file name="about.css" crc="398418425" ref="about"/>
+    <file name="about.css" crc="3866997150" ref="about"/>
     <file name="yassss-queen.css" crc="4212225741" ref="yassss-queen"/>
   </folder>
   <folder name="scripts">
@@ -85,9 +85,12 @@
     </file>
     <file name="u927-14.png" crc="3841232339" ref="blazing-sun-death-game"/>
     <file name="u944-4.png" crc="18474085" ref="blazing-sun-death-game"/>
+    <file name="logo graphic black @2x.png" crc="4015117302" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3866958713" seo="true" mt="1506746850034" redirect="true"/>
-  <file name="about.html" crc="3858323282" seo="true" mt="1506747176917" redirect="true"/>
-  <file name="yassss-queen.html" crc="485705947" seo="true" mt="1506746434103" redirect="true"/>
-  <file name="blazing-sun-death-game.html" crc="147057659" seo="true" mt="1506745804536" redirect="true"/>
+  <file name="index.html" crc="4251570815" seo="true" mt="1506751042753" redirect="true"/>
+  <file name="about.html" crc="3859834885" seo="true" mt="1506751042753" redirect="true"/>
+  <file name="yassss-queen.html" crc="168737638" seo="true" mt="1506751042753" redirect="true"/>
+  <file name="blazing-sun-death-game.html" crc="85591696" seo="true" mt="1506751042753" redirect="true"/>
 </manifest>

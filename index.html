@@ -11,14 +11,19 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <title>games</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=325651398"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=115057191"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=412198046" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=266832867"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3870792239" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3888919660"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3913932276" id="nomq_pagesheet"/>
+  <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -30,38 +35,71 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu257"><!-- column -->
-    <a class="nonblock nontext MuseLinkActive clip_frame colelem" id="u257" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u257_img" src="images/logo%20full%20black%402x.png?crc=198090688" alt="" width="210" height="67"/></a>
-    <div class="museBGSize colelem" id="u2865" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- simple frame --></div>
-   </div>
-   <div class="clearfix grpelem" id="pmenuu1189"><!-- column -->
-    <nav class="MenuBar clearfix colelem" id="menuu1189" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-leftAdjustmentDoneBy="pmenuu1189"><!-- horizontal box -->
-     <div class="MenuItemContainer clearfix grpelem" id="u1197"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u1200" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1203-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>games</p></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u1190"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1191" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1193-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>about</p></div></a>
-     </div>
-    </nav>
-    <div class="museBGSize colelem" id="u2883" data-sizePolicy="fluidWidth" data-pintopage="page_fixedRight" data-leftAdjustmentDoneBy="pmenuu1189"><!-- simple frame --></div>
-   </div>
-   <div class="verticalspacer" data-offset-top="458" data-content-above-spacer="458" data-content-below-spacer="72" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-   <div class="browser_width grpelem" id="u94-bw">
-    <div id="u94"><!-- group -->
-     <div class="clearfix" id="u94_align_to_page">
-      <a class="nonblock nontext MuseLinkActive clip_frame grpelem" id="u376" href="index.html" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u376_img" src="images/logo%20full%20white%402x.png?crc=29049920" alt="" data-heightwidthratio="0.31386861313868614" data-image-width="137" data-image-height="43"/></a>
-      <div class="clearfix grpelem" id="u378-6" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content -->
-       <p>Secret Cow Club is not a real company, we haven't trademarked any of this bullshit but ya know don't be a dick and steal any of this stuff. Its a shitty thing to do and it would make all of us really sad.</p>
-       <p>Oh and we don't use cookies on this site so thats nice, right?</p>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="901"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="clearfix grpelem" id="pu257"><!-- column -->
+     <a class="nonblock nontext MuseLinkActive clip_frame colelem shared_content" id="u257" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-content-guid="u257_content"><!-- image --><img class="block temp_no_img_src" id="u257_img" data-orig-src="images/logo%20full%20black%402x.png?crc=198090688" alt="" width="210" height="67" src="images/blank.gif?crc=4208392903"/></a>
+     <a class="nonblock nontext museBGSize colelem" id="u2865" href="blazing-sun-death-game.html" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedLeft"><!-- simple frame --><div class="fluid_height_spacer shared_content" data-content-guid="u2865_0_content"></div></a>
+    </div>
+    <div class="clearfix grpelem" id="pmenuu1189"><!-- column -->
+     <nav class="MenuBar clearfix colelem" id="menuu1189" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-leftAdjustmentDoneBy="pmenuu1189"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u1197"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u1200" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1203-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p class="shared_content" data-content-guid="u1203-4_0_content">games</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u1190"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1191" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1193-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p class="shared_content" data-content-guid="u1193-4_0_content">about</p></div></a>
+      </div>
+     </nav>
+     <a class="nonblock nontext museBGSize colelem" id="u2883" href="yassss-queen.html" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedRight" data-leftAdjustmentDoneBy="pmenuu1189"><!-- simple frame --><div class="fluid_height_spacer shared_content" data-content-guid="u2883_0_content"></div></a>
+    </div>
+    <div class="verticalspacer" data-offset-top="458" data-content-above-spacer="458" data-content-below-spacer="72" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="browser_width grpelem shared_content" id="u94-bw" data-content-guid="u94-bw_content">
+     <div id="u94"><!-- group -->
+      <div class="clearfix" id="u94_align_to_page">
+       <a class="nonblock nontext MuseLinkActive clip_frame grpelem" id="u376" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block temp_no_img_src" id="u376_img" data-orig-src="images/logo%20full%20white%402x.png?crc=29049920" alt="" width="137" height="43" src="images/blank.gif?crc=4208392903"/></a>
+       <div class="clearfix grpelem" id="u378-6" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content -->
+        <p>Secret Cow Club is not a real company, we haven't trademarked any of this bullshit but ya know don't be a dick and steal any of this stuff. Its a shitty thing to do and it would make all of us really sad.</p>
+        <p>Oh and we don't use cookies on this site so thats nice, right?</p>
+       </div>
       </div>
      </div>
     </div>
    </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/blazing%20sun%20death%20game%20button--0lhhc.png?crc=300281414" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/yas%20queen%20button-layer%200.jpg?crc=361291464" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
   </div>
-  <div class="preload_images">
-   <img class="preload" src="images/blazing%20sun%20death%20game%20button--0lhhc.png?crc=300281414" alt=""/>
-   <img class="preload" src="images/yas%20queen%20button-layer%200.jpg?crc=361291464" alt=""/>
+  <div class="breakpoint" id="bp_900" data-max-width="900"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content" id="page_position_content">
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu257"><!-- group -->
+      <span class="nonblock nontext MuseLinkActive clip_frame grpelem placeholder" data-placeholder-for="u257_content"><!-- placeholder node --></span>
+      <nav class="MenuBar clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-orig-id="menuu1189"><!-- horizontal box -->
+       <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u1197"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem temp_no_id" href="index.html" data-orig-id="u1200"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u1203-4"><!-- content --><span class="placeholder" data-placeholder-for="u1203-4_0_content"><!-- placeholder node --></span></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u1190"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem temp_no_id" href="about.html" data-orig-id="u1191"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u1193-4"><!-- content --><span class="placeholder" data-placeholder-for="u1193-4_0_content"><!-- placeholder node --></span></div></a>
+       </div>
+      </nav>
+     </div>
+     <div class="clearfix colelem" id="pu2865"><!-- group -->
+      <div id="u2865-wrapper">
+       <a class="nonblock nontext museBGSize temp_no_id" href="blazing-sun-death-game.html" data-orig-id="u2865"><!-- simple frame --><span class="fluid_height_spacer placeholder" data-placeholder-for="u2865_0_content"><!-- placeholder node --></span></a>
+      </div>
+      <div id="u2883-wrapper">
+       <a class="nonblock nontext museBGSize temp_no_id" href="yassss-queen.html" data-orig-id="u2883"><!-- simple frame --><span class="fluid_height_spacer placeholder" data-placeholder-for="u2883_0_content"><!-- placeholder node --></span></a>
+      </div>
+     </div>
+     <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="757" data-content-below-spacer="106" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+     <span class="browser_width colelem placeholder" data-placeholder-for="u94-bw_content"><!-- placeholder node --></span>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/blazing%20sun%20death%20game%20button--0lhhc.png?crc=300281414" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/yas%20queen%20button-layer%200.jpg?crc=361291464" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -74,16 +112,16 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_900'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 

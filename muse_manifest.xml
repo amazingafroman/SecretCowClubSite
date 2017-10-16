@@ -1,15 +1,16 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="secretcow.club" resolutions="1x" timestamp="1507425344985">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="secretcow.club" resolutions="1x" timestamp="1508141126720">
   <folder name="css">
     <file name="site_global.css" crc="325651398"/>
-    <file name="master_a-master.css" crc="266832867" ref="blazing-sun-death-game:index:yassss-queen:about"/>
-    <file name="blazing-sun-death-game.css" crc="3972535407" ref="blazing-sun-death-game"/>
-    <file name="index.css" crc="3870792239" ref="index"/>
-    <file name="yassss-queen.css" crc="414132649" ref="yassss-queen"/>
-    <file name="about.css" crc="72595825" ref="about"/>
+    <file name="master_a-master.css" crc="97807188" ref="blazing-sun-death-game:index:yassss-queen:about"/>
+    <file name="blazing-sun-death-game.css" crc="445391909" ref="blazing-sun-death-game"/>
+    <file name="index.css" crc="4019891696" ref="index"/>
+    <file name="yassss-queen.css" crc="190757017" ref="yassss-queen"/>
+    <file name="about.css" crc="4200874132" ref="about"/>
     <file name="nomq_preview_master_a-master.css" crc="3888919660" ref="yassss-queen:about:blazing-sun-death-game:index"/>
-    <file name="nomq_about.css" crc="153090422" ref="about"/>
-    <file name="nomq_index.css" crc="3913932276" ref="index"/>
-    <file name="nomq_yassss-queen.css" crc="87005196" ref="yassss-queen"/>
+    <file name="nomq_index.css" crc="3764529822" ref="index"/>
+    <file name="nomq_yassss-queen.css" crc="3901006705" ref="yassss-queen"/>
+    <file name="nomq_about.css" crc="4181064832" ref="about"/>
+    <file name="nomq_blazing-sun-death-game.css" crc="3994740314" ref="blazing-sun-death-game"/>
   </folder>
   <folder name="fonts">
     <file name="avenirnext-medium.woff" crc="215280179"/>
@@ -53,19 +54,34 @@
     <file name="jquery.watch.js" crc="4240030481" ref="index:about:yassss-queen:blazing-sun-death-game"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:yassss-queen:blazing-sun-death-game"/>
     <file name="require.js" crc="3861931657" ref="index:about:yassss-queen:blazing-sun-death-game"/>
-    <file name="jquery.museresponsive.js" crc="4267800278" ref="about:index:yassss-queen"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:yassss-queen:about:blazing-sun-death-game"/>
   </folder>
   <folder name="images">
     <file name="logo full black@2x.png" crc="198090688" seo="true" ref="index:about:yassss-queen:blazing-sun-death-game">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="blazing-sun-death-game" alt=""/>
+      <caption webpage="blazing-sun-death-game" alt=""/>
+      <caption webpage="blazing-sun-death-game" alt=""/>
       <caption webpage="blazing-sun-death-game" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="yassss-queen" alt=""/>
-      <caption webpage="yassss-queen" alt=""/>
-      <caption webpage="yassss-queen" alt=""/>
-      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="blazing sun death game button.png" crc="3996921318" ref="index">
       <caption webpage="index" alt=""/>
@@ -79,17 +95,32 @@
     <file name="yas queen button-layer 0.jpg" crc="361291464" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="about:index:yassss-queen"/>
-    <file name="logo full white@2x.png" crc="29049920" seo="true" ref="index:about:yassss-queen:blazing-sun-death-game">
+    <file name="blank.gif" crc="4208392903" ref="index:yassss-queen:about:blazing-sun-death-game"/>
+    <file name="logo full white@2x.png" crc="223035015" seo="true" ref="index:about:yassss-queen:blazing-sun-death-game">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="blazing-sun-death-game" alt=""/>
+      <caption webpage="blazing-sun-death-game" alt=""/>
+      <caption webpage="blazing-sun-death-game" alt=""/>
       <caption webpage="blazing-sun-death-game" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="yassss-queen" alt=""/>
-      <caption webpage="yassss-queen" alt=""/>
-      <caption webpage="yassss-queen" alt=""/>
-      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="17917823_1544578778887556_1766169868346671522_o-crop-u424.jpg" crc="522227455" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -100,6 +131,11 @@
     <file name="logo graphic black @2x.png" crc="4015117302" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="18491404_10155241658162480_7658161444951540170_o-crop-u434.jpg" crc="92326695" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -107,17 +143,37 @@
     <file name="20934148_1657389614274204_560404708477814619_o-crop-u438.jpg" crc="3940610028" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="capture-crop-u860.jpg" crc="232978649" seo="true" ref="yassss-queen">
+    <file name="capture-crop-u860.jpg" crc="3817913761" seo="true" ref="yassss-queen">
       <caption webpage="yassss-queen" alt=""/>
     </file>
-    <file name="u863-12.png" crc="3836652701" ref="yassss-queen"/>
     <file name="-0lhhc-crop-u909.png" crc="76452912" seo="true" ref="blazing-sun-death-game">
       <caption webpage="blazing-sun-death-game" alt=""/>
     </file>
     <file name="12993468_10208722309005560_3111599955132397026_n.jpg" crc="44075874" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
+    <file name="capture618x474.jpg" crc="4242039898" seo="true" ref="yassss-queen">
+      <caption webpage="yassss-queen" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
+    </file>
+    <file name="capture-crop-u8602.jpg" crc="381726514" seo="true" ref="yassss-queen">
+      <caption webpage="yassss-queen" alt=""/>
+    </file>
+    <file name="capture-crop-u8603.jpg" crc="3949324405" seo="true" ref="yassss-queen">
+      <caption webpage="yassss-queen" alt=""/>
+    </file>
+    <file name="blazing sun death game button-u2865-fr.png" crc="3972141666" ref="index"/>
+    <file name="blazing sun death game button-u2865-r-fr.png" crc="3866571496" ref="index"/>
+    <file name="yas queen button-u2883-fr.jpg" crc="4227786056" ref="index"/>
+    <file name="yas queen button-u2883-r-fr.jpg" crc="4215680995" ref="index"/>
+    <file name="blazing sun death game button-u2865-fr2.png" crc="425945101" ref="index"/>
+    <file name="blazing sun death game button-u2865-r-fr2.png" crc="4077658071" ref="index"/>
     <file name="17917823_1544578778887556_1766169868346671522_o-crop-u4242.jpg" crc="522227455" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -130,21 +186,84 @@
     <file name="20934148_1657389614274204_560404708477814619_o-crop-u4382.jpg" crc="3940610028" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="capture618x474.jpg" crc="4242039898" seo="true" ref="yassss-queen">
+    <file name="12829135_10201300984924188_5681370016394036728_o-crop-u4293.jpg" crc="404175811" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="17917823_1544578778887556_1766169868346671522_o-crop-u4243.jpg" crc="522227455" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="18491404_10155241658162480_7658161444951540170_o-crop-u4343.jpg" crc="92326695" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="20934148_1657389614274204_560404708477814619_o-crop-u4383.jpg" crc="3940610028" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="12829135_10201300984924188_5681370016394036728_o-crop-u4294.jpg" crc="404175811" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="17917823_1544578778887556_1766169868346671522_o-crop-u4244.jpg" crc="522227455" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="18491404_10155241658162480_7658161444951540170_o-crop-u4344.jpg" crc="92326695" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="20934148_1657389614274204_560404708477814619_o-crop-u4384.jpg" crc="3940610028" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="12829135_10201300984924188_5681370016394036728_o-crop-u4295.jpg" crc="404175811" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="17917823_1544578778887556_1766169868346671522_o-crop-u4245.jpg" crc="522227455" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="18491404_10155241658162480_7658161444951540170_o-crop-u4345.jpg" crc="92326695" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="20934148_1657389614274204_560404708477814619_o-crop-u4385.jpg" crc="3940610028" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="12829135_10201300984924188_5681370016394036728_o-crop-u4296.jpg" crc="404175811" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="17917823_1544578778887556_1766169868346671522_o-crop-u4246.jpg" crc="522227455" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="18491404_10155241658162480_7658161444951540170_o-crop-u4346.jpg" crc="92326695" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="20934148_1657389614274204_560404708477814619_o-crop-u4386.jpg" crc="3940610028" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="12829135_10201300984924188_5681370016394036728_o-crop-u4297.jpg" crc="404175811" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="17917823_1544578778887556_1766169868346671522_o-crop-u4247.jpg" crc="522227455" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="18491404_10155241658162480_7658161444951540170_o-crop-u4347.jpg" crc="92326695" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="20934148_1657389614274204_560404708477814619_o-crop-u4387.jpg" crc="3940610028" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="capture-crop-u8604.jpg" crc="4007854535" seo="true" ref="yassss-queen">
       <caption webpage="yassss-queen" alt=""/>
     </file>
-    <file name="u863-122.png" crc="150425357" ref="yassss-queen"/>
-    <file name="capture-crop-u8602.jpg" crc="264456393" seo="true" ref="yassss-queen">
+    <file name="capture-crop-u8605.jpg" crc="4261073660" seo="true" ref="yassss-queen">
       <caption webpage="yassss-queen" alt=""/>
     </file>
-    <file name="u863-123.png" crc="55225768" ref="yassss-queen"/>
-    <file name="capture-crop-u8603.jpg" crc="4261073660" seo="true" ref="yassss-queen">
-      <caption webpage="yassss-queen" alt=""/>
+    <file name="-0lhhc-crop-u9092.png" crc="176985144" seo="true" ref="blazing-sun-death-game">
+      <caption webpage="blazing-sun-death-game" alt=""/>
     </file>
-    <file name="u863-124.png" crc="3907623609" ref="yassss-queen"/>
+    <file name="-0lhhc-crop-u9093.png" crc="3839618840" seo="true" ref="blazing-sun-death-game">
+      <caption webpage="blazing-sun-death-game" alt=""/>
+    </file>
+    <file name="-0lhhc-crop-u9094.png" crc="4147290203" seo="true" ref="blazing-sun-death-game">
+      <caption webpage="blazing-sun-death-game" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="325181952" seo="true" mt="1507419259921" redirect="true"/>
-  <file name="about.html" crc="3781240022" seo="true" mt="1507418578534" redirect="true"/>
-  <file name="yassss-queen.html" crc="4151172776" seo="true" mt="1507425287966" redirect="true"/>
-  <file name="blazing-sun-death-game.html" crc="4085988677" seo="true" mt="1507418578534" redirect="true"/>
+  <file name="index.html" crc="4147393035" seo="true" mt="1508141109249" redirect="true"/>
+  <file name="about.html" crc="3866062041" seo="true" mt="1508141109249" redirect="true"/>
+  <file name="yassss-queen.html" crc="153883664" seo="true" mt="1508141109249" redirect="true"/>
+  <file name="blazing-sun-death-game.html" crc="55254417" seo="true" mt="1508141109249" redirect="true"/>
 </manifest>

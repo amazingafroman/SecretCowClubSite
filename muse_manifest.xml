@@ -1,16 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="secretcow.club" resolutions="1x" timestamp="1518394803318">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="secretcow.club" resolutions="1x" timestamp="1518401932996">
   <folder name="css">
     <file name="site_global.css" crc="325651398"/>
-    <file name="master_a-master.css" crc="182180722" ref="index:blazing-sun-death-game:yassss-queen:about"/>
-    <file name="nomq_preview_master_a-master.css" crc="3888919660" ref="index:blazing-sun-death-game:yassss-queen:about"/>
-    <file name="index.css" crc="3843319522" ref="index"/>
-    <file name="nomq_index.css" crc="4266947944" ref="index"/>
-    <file name="blazing-sun-death-game.css" crc="188845876" ref="blazing-sun-death-game"/>
-    <file name="nomq_blazing-sun-death-game.css" crc="263900779" ref="blazing-sun-death-game"/>
-    <file name="yassss-queen.css" crc="4202572703" ref="yassss-queen"/>
+    <file name="master_a-master.css" crc="4130183059" ref="index:blazing-sun-death-game:yassss-queen:about:transducer"/>
+    <file name="nomq_preview_master_a-master.css" crc="3888919660" ref="index:blazing-sun-death-game:yassss-queen:about:transducer"/>
+    <file name="index.css" crc="344571666" ref="index"/>
+    <file name="nomq_index.css" crc="205285893" ref="index"/>
+    <file name="blazing-sun-death-game.css" crc="3806661115" ref="blazing-sun-death-game"/>
+    <file name="nomq_blazing-sun-death-game.css" crc="4129316685" ref="blazing-sun-death-game"/>
+    <file name="yassss-queen.css" crc="324157454" ref="yassss-queen"/>
     <file name="nomq_yassss-queen.css" crc="3976058939" ref="yassss-queen"/>
-    <file name="about.css" crc="27367749" ref="about"/>
+    <file name="about.css" crc="3889053101" ref="about"/>
     <file name="nomq_about.css" crc="4261301851" ref="about"/>
+    <file name="transducer.css" crc="450299070" ref="transducer"/>
+    <file name="nomq_transducer.css" crc="72274710" ref="transducer"/>
   </folder>
   <folder name="fonts">
     <file name="bernierdistressed-regular1.woff" crc="4205690546"/>
@@ -66,25 +68,31 @@
     <file name="avenirnext-regular.svg" crc="4102899248"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:yassss-queen:blazing-sun-death-game"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:yassss-queen:blazing-sun-death-game"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:yassss-queen:blazing-sun-death-game"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:about:yassss-queen:blazing-sun-death-game"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:yassss-queen:blazing-sun-death-game"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:yassss-queen:blazing-sun-death-game"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:yassss-queen:blazing-sun-death-game"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:yassss-queen:blazing-sun-death-game"/>
-    <file name="require.js" crc="4157109226" ref="index:about:yassss-queen:blazing-sun-death-game"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
+    <file name="require.js" crc="4157109226" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
+    <file name="webpro.js" crc="242022427" ref="transducer"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="transducer"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="transducer"/>
+    <file name="touchswipe.js" crc="4066113679" ref="transducer"/>
   </folder>
   <folder name="images">
-    <file name="logo full black@2x.png" crc="198090688" seo="true" ref="index:about:yassss-queen:blazing-sun-death-game">
+    <file name="logo full black@2x.png" crc="198090688" seo="true" ref="index:about:yassss-queen:blazing-sun-death-game:transducer">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
       <caption webpage="yassss-queen" alt=""/>
       <caption webpage="yassss-queen" alt=""/>
       <caption webpage="yassss-queen" alt=""/>
@@ -97,6 +105,14 @@
       <caption webpage="blazing-sun-death-game" alt=""/>
       <caption webpage="blazing-sun-death-game" alt=""/>
       <caption webpage="blazing-sun-death-game" alt=""/>
+      <caption webpage="blazing-sun-death-game" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -117,13 +133,15 @@
     <file name="yas queen button-layer 0.jpg" crc="361291464" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo full white@2x.png" crc="223035015" seo="true" ref="index:about:yassss-queen:blazing-sun-death-game">
+    <file name="logo full white@2x.png" crc="223035015" seo="true" ref="index:about:yassss-queen:blazing-sun-death-game:transducer">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="yassss-queen" alt=""/>
       <caption webpage="yassss-queen" alt=""/>
       <caption webpage="yassss-queen" alt=""/>
       <caption webpage="yassss-queen" alt=""/>
@@ -136,6 +154,14 @@
       <caption webpage="blazing-sun-death-game" alt=""/>
       <caption webpage="blazing-sun-death-game" alt=""/>
       <caption webpage="blazing-sun-death-game" alt=""/>
+      <caption webpage="blazing-sun-death-game" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="transducer" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -144,8 +170,9 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:yassss-queen:blazing-sun-death-game"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:yassss-queen:blazing-sun-death-game:transducer"/>
     <file name="12993468_10208722309005560_3111599955132397026_n.jpg" crc="44075874" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -164,6 +191,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="logo graphic black @2x.png" crc="4015117302" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -247,7 +275,7 @@
     <file name="20934148_1657389614274204_560404708477814619_o-crop-u4387.jpg" crc="3940610028" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="capture-crop-u860.jpg" crc="180537133" seo="true" ref="yassss-queen">
+    <file name="capture-crop-u860.jpg" crc="232978649" seo="true" ref="yassss-queen">
       <caption webpage="yassss-queen" alt=""/>
     </file>
     <file name="capture-crop-u8602.jpg" crc="3939178374" seo="true" ref="yassss-queen">
@@ -285,9 +313,75 @@
     <file name="blazing sun death game button-u8960-r-fr.png" crc="3889421452" ref="index"/>
     <file name="yas queen button-u8929-fr.jpg" crc="365040123" ref="index"/>
     <file name="yas queen button-u8929-r-fr.jpg" crc="415714300" ref="index"/>
+    <file name="transducer button.jpg" crc="280258234" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="transducer button-title screen.jpg" crc="3935618927" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="transducer button-u11378-fr.jpg" crc="4292445049" ref="index"/>
+    <file name="transducer button-u11378-r-fr.jpg" crc="369459751" ref="index"/>
+    <file name="transducer button-u11378-fr2.jpg" crc="474621646" ref="index"/>
+    <file name="transducer button-u11378-r-fr2.jpg" crc="3987910155" ref="index"/>
+    <file name="17917823_1544578778887556_1766169868346671522_o-crop-u4248.jpg" crc="522227455" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="18491404_10155241658162480_7658161444951540170_o-crop-u4348.jpg" crc="92326695" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="12829135_10201300984924188_5681370016394036728_o-crop-u4298.jpg" crc="404175811" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="20934148_1657389614274204_560404708477814619_o-crop-u4388.jpg" crc="3940610028" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="capture-crop-u8607.jpg" crc="186339387" seo="true" ref="yassss-queen">
+      <caption webpage="yassss-queen" alt=""/>
+    </file>
+    <file name="-0lhhc-crop-u9095.png" crc="3840237638" seo="true" ref="blazing-sun-death-game">
+      <caption webpage="blazing-sun-death-game" alt=""/>
+    </file>
+    <file name="game screen-crop-u11622.jpg" crc="501244781" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="title screen-crop-u11734.jpg" crc="391325904" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="transducer"/>
+    <file name="game screen-crop-u116222.jpg" crc="3770847802" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="title screen-crop-u117342.jpg" crc="189789176" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="game screen-crop-u116223.jpg" crc="4237275746" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="title screen-crop-u117343.jpg" crc="272897433" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="game screen-crop-u116224.jpg" crc="4018431348" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="title screen-crop-u117344.jpg" crc="4039656174" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="game screen-crop-u116225.jpg" crc="3897165147" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="title screen-crop-u117345.jpg" crc="473276750" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="game screen-crop-u116226.jpg" crc="427396248" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
+    <file name="title screen-crop-u117346.jpg" crc="3886812165" seo="true" ref="transducer">
+      <caption webpage="transducer" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4013223903" seo="true" mt="1518393174651" redirect="true"/>
-  <file name="about.html" crc="4035855" seo="true" mt="1518393174651" redirect="true"/>
-  <file name="yassss-queen.html" crc="360520514" seo="true" mt="1518393174651" redirect="true"/>
-  <file name="blazing-sun-death-game.html" crc="3861457060" seo="true" mt="1518393595922" redirect="true"/>
+  <file name="index.html" crc="365386481" seo="true" mt="1518401906213" redirect="true"/>
+  <file name="about.html" crc="35989267" seo="true" mt="1518401906213" redirect="true"/>
+  <file name="yassss-queen.html" crc="3928495639" seo="true" mt="1518401906213" redirect="true"/>
+  <file name="blazing-sun-death-game.html" crc="158836107" seo="true" mt="1518401906213" redirect="true"/>
+  <file name="transducer.html" crc="308534888" seo="true" mt="1518401906213" redirect="true"/>
 </manifest>

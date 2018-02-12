@@ -113,6 +113,18 @@
     <image:image>
       <image:loc>http://secretcow.club/images/20934148_1657389614274204_560404708477814619_o-crop-u4387.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/17917823_1544578778887556_1766169868346671522_o-crop-u4248.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/18491404_10155241658162480_7658161444951540170_o-crop-u4348.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/12829135_10201300984924188_5681370016394036728_o-crop-u4298.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/20934148_1657389614274204_560404708477814619_o-crop-u4388.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://secretcow.club/yassss-queen.html</loc>
@@ -146,6 +158,9 @@
     <image:image>
       <image:loc>http://secretcow.club/images/capture-crop-u8606.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/capture-crop-u8607.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://secretcow.club/blazing-sun-death-game.html</loc>
@@ -169,6 +184,57 @@
     </image:image>
     <image:image>
       <image:loc>http://secretcow.club/images/-0lhhc-crop-u9094.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/-0lhhc-crop-u9095.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://secretcow.club/transducer.html</loc>
+    <lastmod>2018-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://secretcow.club/images/logo%20full%20black@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/logo%20full%20white@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/game%20screen-crop-u11622.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/title%20screen-crop-u11734.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/game%20screen-crop-u116222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/title%20screen-crop-u117342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/game%20screen-crop-u116223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/title%20screen-crop-u117343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/game%20screen-crop-u116224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/title%20screen-crop-u117344.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/game%20screen-crop-u116225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/title%20screen-crop-u117345.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/game%20screen-crop-u116226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://secretcow.club/images/title%20screen-crop-u117346.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
